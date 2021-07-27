@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4db626ad063b13545924a9839ac5fa83, type: 3}
+  m_Name: InkText
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: deb1c520e28b1e249b18cb0d250816c0, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 54dd2c6e62360e84bb4e34259599eac0, type: 2}
+  - {fileID: 11400000, guid: bc670de58c355854a886e719c926249e, type: 2}
+  - {fileID: 11400000, guid: f0796a76ff90c0d428add32b66181f83, type: 2}
+  m_Extensions: []
+  m_Group: Asset Table
+  references:
+    version: 1
